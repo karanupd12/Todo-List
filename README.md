@@ -9,6 +9,10 @@ This is a simple and interactive To-Do List application built using React. The a
 - **Delete Tasks:** Remove tasks from the list by clicking the delete button.
 - **Responsive Design:** The application is fully responsive and works on various screen sizes.
 
+
+## Screenshot
+<img src="https://github.com/karanupd12/Todo-List/blob/main/src/components/assets/Todo%20List.png" alt="screenshot" width="680" height="550">
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -35,7 +39,6 @@ To run this project locally, follow these steps:
     ```
     
 4. **Run the application:**
-The app will be available at `http://localhost:3000/`.
     
     ```bash
     npm start
